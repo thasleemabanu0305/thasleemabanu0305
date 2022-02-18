@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thasleema Banu 
 - 👀 I’m interested in learning new languages and creating universe
-- 🌱 I’m currently learning HTML, CSS, JS, React JS and JAVA
-- 💞️ I’m looking to collaborate on any frondend projects
+- 🌱 I’m currently learning Data analyst and Engineering skill like Python, scala and more.
+- 💞️ I’m looking to collaborate on any data analyst projects
 - 📫 How to reach me email to thasleemabs0305@gmail.com
 
 <!---
